@@ -3,4 +3,5 @@ language: scala
 scala:
    - 2.12.10
 script:
+  - sbt -sbt-create
   - sbt clean compile run
