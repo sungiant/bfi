@@ -1,6 +1,6 @@
 # BFI
 
-[![Build Status](https://travis-ci.org/sungiant/bfi.png?branch=master)](https://travis-ci.org/sungiant/bfi)
+[![Build Status](https://img.shields.io/travis/sungiant/bfi)](https://travis-ci.org/sungiant/bfi)
 ![License](https://img.shields.io/github/license/sungiant/bfi)
 
 BFI is a purely functional implementation of an interpreter for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).  The implementation is written in Scala, it is concise and uses no dependencies.
